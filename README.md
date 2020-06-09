@@ -1,5 +1,5 @@
 # Topological quantum compiling with reinforcement learning
-An efficient machine learning algorithm to decompose an arbitrary single-qubit gate into a sequence of gates from a finite universal set. Paper soon to appear on arXiv. 
+An efficient machine learning algorithm to decompose an arbitrary single-qubit gate into a sequence of gates from a finite universal set. Reference: https://arxiv.org/abs/2004.04743
 
 In this example code the universal gate set is chosen to be the braiding operations of the Fibonacci anyon model. 
 
